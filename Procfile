@@ -1,1 +1,1 @@
-web: java -jar target/Heroku-1.0-SNAPSHOT.jar
+web: java -Xmx256m -jar target/Heroku-1.0-SNAPSHOT.jar
